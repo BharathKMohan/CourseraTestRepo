@@ -1,2 +1,2 @@
-# CourseraTestRepo
+# Coursera Test Repo
 Test Repo
